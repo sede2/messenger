@@ -9,8 +9,8 @@
     "require": {},
     "minimim-stability": "dev",
     "autoload": {
-        "psr-0": {
-            "Sede2\\Messenger\\": "src"
-        }
-    }
+        "classmap": [
+            "src/"
+        ]
+    },
 }
