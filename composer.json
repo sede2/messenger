@@ -1,0 +1,15 @@
+{
+    "name": "sede2/messenger",
+    "authors": [
+        {
+            "name": "Sede2",
+            "email": "sede2sede@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Sede2\\Messenger\\": "src"
+        }
+    }
+}
